@@ -1,9 +1,9 @@
 # Accessible-Form-UI 
-<br>
+<br><br>
 Hi, for this project, "Accessible Form UI," I worked with two technologies: HTML and CSS.
-<br>
+<br><br><br>
 In this project, you will learn about different elements:
-<br>
+<br><br><br>
 Labeling: You will learn how to use the <label> element for each form field, ensuring it is clearly associated with the input using the for attribute. This is essential for improving accessibility and making your form usable for all users, including those relying on screen readers.
 Focus State: You'll apply CSS to style the focus state of each input field. This makes it easy for users navigating with a keyboard to see which field is currently active, which is an important accessibility feature.
 Error Messaging: You will learn how to implement error messaging within the form. This includes adding space for error messages that are clearly linked to the relevant input field, helping users understand and correct their mistakes easily.
